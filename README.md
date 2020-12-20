@@ -1,4 +1,4 @@
-# Django project for a task management webservice using REST APIs
+# Django project for a task management web service using REST APIs
 
 ## Steps to follow for executing the project once it is downloaded
 
